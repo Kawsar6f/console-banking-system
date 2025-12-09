@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Id": "ece31214-4f0d-4c24-865a-80ed3f5fa07b",
+    "Username": "rakib33",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "rakib",
+    "Balance": 100000,
+    "CreatedAt": "2025-12-09T17:51:59.6170911Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T17:53:29.4239846Z",
+        "Type": 0,
+        "Amount": 100000,
+        "Note": "salary"
+      }
+    ]
+  }
+]

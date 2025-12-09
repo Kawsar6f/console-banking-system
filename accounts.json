@@ -1,0 +1,163 @@
+﻿[
+  {
+    "Id": "5e3372fe-d494-4ee6-b3bb-ad703b850892",
+    "Username": "kawsar687",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "kawsar",
+    "Balance": 50000,
+    "CreatedAt": "2025-12-09T15:34:27.8975689Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T15:35:28.815061Z",
+        "Type": 0,
+        "Amount": 100,
+        "Note": "rent"
+      },
+      {
+        "Date": "2025-12-09T15:35:53.1605738Z",
+        "Type": 0,
+        "Amount": 50000,
+        "Note": "fund"
+      },
+      {
+        "Date": "2025-12-09T15:36:18.3135771Z",
+        "Type": 1,
+        "Amount": 100,
+        "Note": ""
+      }
+    ]
+  },
+  {
+    "Id": "4ddaf724-f0fe-4b78-a9da-4268d6753a3c",
+    "Username": "tala333",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "asik",
+    "Balance": 4000,
+    "CreatedAt": "2025-12-09T15:40:19.4902348Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T15:42:47.0619616Z",
+        "Type": 0,
+        "Amount": 5000,
+        "Note": "salary"
+      },
+      {
+        "Date": "2025-12-09T15:45:27.9618874Z",
+        "Type": 1,
+        "Amount": 1000,
+        "Note": "pay"
+      }
+    ]
+  },
+  {
+    "Id": "436dee96-7c99-4993-933f-47db03c40952",
+    "Username": "abdul20",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "abdul",
+    "Balance": 0,
+    "CreatedAt": "2025-12-09T15:50:03.4257686Z",
+    "Transactions": []
+  },
+  {
+    "Id": "09adf96e-639c-497f-a60f-f4ad38e77a2f",
+    "Username": "hasan555",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "hasan",
+    "Balance": 1000,
+    "CreatedAt": "2025-12-09T16:32:09.2149556Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T16:35:59.162291Z",
+        "Type": 0,
+        "Amount": 1000,
+        "Note": "deposit"
+      }
+    ]
+  },
+  {
+    "Id": "57c9b478-6e50-4abd-ae67-07ceaa08fcf8",
+    "Username": "atik99",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "atik",
+    "Balance": 0,
+    "CreatedAt": "2025-12-09T17:05:54.0271762Z",
+    "Transactions": []
+  },
+  {
+    "Id": "9d17a77a-66cf-4598-b984-5a120d7cab83",
+    "Username": "hasib11",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "hasib",
+    "Balance": 0,
+    "CreatedAt": "2025-12-09T17:09:16.7562125Z",
+    "Transactions": []
+  },
+  {
+    "Id": "3354e3b2-f94f-4603-aa86-9945aba7b418",
+    "Username": "babul90",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "babul",
+    "Balance": 100950,
+    "CreatedAt": "2025-12-09T17:21:58.0216699Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T17:23:04.2171322Z",
+        "Type": 0,
+        "Amount": 2000,
+        "Note": "deposit"
+      },
+      {
+        "Date": "2025-12-09T17:23:52.9961894Z",
+        "Type": 1,
+        "Amount": 50,
+        "Note": "pay"
+      },
+      {
+        "Date": "2025-12-09T17:24:15.7458147Z",
+        "Type": 0,
+        "Amount": 100000,
+        "Note": "salary"
+      },
+      {
+        "Date": "2025-12-09T17:24:38.2296303Z",
+        "Type": 1,
+        "Amount": 1000,
+        "Note": "bill"
+      }
+    ]
+  },
+  {
+    "Id": "853ee5cc-c564-434e-bd50-7a71a80ed447",
+    "Username": "abdullah22",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "Abdullah",
+    "Balance": 0,
+    "CreatedAt": "2025-12-09T17:27:29.8633625Z",
+    "Transactions": []
+  },
+  {
+    "Id": "33f8e519-3c53-4d3c-a7e1-9db3dfca3411",
+    "Username": "nayem10",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "nayem",
+    "Balance": 10099,
+    "CreatedAt": "2025-12-09T17:57:25.6247034Z",
+    "Transactions": [
+      {
+        "Date": "2025-12-09T17:58:50.0496005Z",
+        "Type": 0,
+        "Amount": 10099,
+        "Note": "salary"
+      }
+    ]
+  },
+  {
+    "Id": "02cdc1d4-cd72-4593-b1ad-9d21f64754aa",
+    "Username": "hossain88",
+    "PasswordHash": "03AC674216F3E15C761EE1A5E255F067953623C8B388B4459E13F978D7C846F4",
+    "FullName": "hossain",
+    "Balance": 0,
+    "CreatedAt": "2025-12-09T18:46:10.0218156Z",
+    "Transactions": []
+  }
+]
